@@ -1,19 +1,21 @@
-/**
- * Created by Natasha_Mishuk on 2/12/2017.
- */
+package com.natasha_mishuk.figure.circle_util;
+
+
 public class FileParameter {
     private String fileName;
 
-    public static String rootDir="D:\\AUTOMATION\\JAVA_LESSON1\\com.epam.natasha_mishuk.task1\\datafiles\\";
+    public final static String ROOT_DIR="datafiles\\";
 
 
 
     public void setFileName(String fileName){
+
         this.fileName = fileName;
     }
 
 
     public String getFileName(){
+
         return fileName;
     }
 
