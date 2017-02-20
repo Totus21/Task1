@@ -4,7 +4,7 @@ public class ParameterValidator {
 
     public boolean validateIfPositive(double localParameter) {
 
-        if (localParameter > 0) {
+        if (localParameter >0) {
             return true;
         }
         else {

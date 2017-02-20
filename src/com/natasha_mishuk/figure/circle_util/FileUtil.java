@@ -11,9 +11,12 @@ import java.io.*;
 public class FileUtil {
 
 
+
   public void createFiles( FileParameter localFile) {
+
       ResultPrinter objectPrinter=new ResultPrinter();
-        File objectFile = new File(FileParameter.ROOT_DIR + localFile.getFileName());
+
+      File objectFile = new File(FileParameter.ROOT_DIR + localFile.getFileName());
 
         try {
 
@@ -86,7 +89,7 @@ public class FileUtil {
                 objectBufferedReader.close();
             }
         } catch (IOException e) {
-            throw new RuntimeException(e);
+           throw new RuntimeException(e);
         }
 
         return  localResult;
@@ -127,7 +130,8 @@ public class FileUtil {
                         objectFileWriter.close();
                     }
 
-                } catch (IOException e) {
+                }
+                 catch (IOException e) {
                     throw new RuntimeException(e);
                 }
 

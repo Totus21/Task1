@@ -1,0 +1,27 @@
+2017-02-19 13:01:07 [main] INFO  Main - this first log
+2017-02-19 13:08:33 [main] INFO  Main - this first log
+2017-02-19 13:32:52 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectReader is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCircle is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCircle is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectFile is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 13:32:52 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 13:33:18 [main] INFO  Runner -  read circle radius from console 
+2017-02-19 13:33:18 [main] INFO  Runner -  calculate circle area for radius from  console 
+2017-02-19 13:33:18 [main] INFO  Runner -  calculate circle perimeter for radius from  console 
+2017-02-19 13:33:18 [main] INFO  Runner -  area and perimeter for circle radius from console re printed 
+2017-02-19 16:14:58 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectReader is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectFile is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 16:14:58 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 16:15:10 [main] INFO  Runner -  read circle radius from console. Entered radius is 12.0
+2017-02-19 16:15:10 [main] INFO  Runner -  calculate circle area for radius from  console . Calculated area for radius from  console is 452.3893421169302
+2017-02-19 16:15:10 [main] INFO  Runner -  calculate circle perimeter for radius from  console. Calculated perimeter for radius from  console is 75.39822368615503
+2017-02-19 16:15:10 [main] INFO  Runner -  area and perimeter for circle radius from console are printed in console
+2017-02-19 16:15:10 [main] INFO  Runner -  user is asked about circle radius 

@@ -1,0 +1,116 @@
+2017-02-19 13:01:07 [main] INFO  Main - this first log
+2017-02-19 13:08:33 [main] INFO  Main - this first log
+2017-02-19 13:32:52 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectReader is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCircle is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCircle is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectFile is created
+2017-02-19 13:32:52 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 13:32:52 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 13:33:18 [main] INFO  Runner -  read circle radius from console 
+2017-02-19 13:33:18 [main] INFO  Runner -  calculate circle area for radius from  console 
+2017-02-19 13:33:18 [main] INFO  Runner -  calculate circle perimeter for radius from  console 
+2017-02-19 13:33:18 [main] INFO  Runner -  area and perimeter for circle radius from console re printed 
+2017-02-19 16:14:58 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectReader is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectFile is created
+2017-02-19 16:14:58 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 16:14:58 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 16:15:10 [main] INFO  Runner -  read circle radius from console. Entered radius is 12.0
+2017-02-19 16:15:10 [main] INFO  Runner -  calculate circle area for radius from  console . Calculated area for radius from  console is 452.3893421169302
+2017-02-19 16:15:10 [main] INFO  Runner -  calculate circle perimeter for radius from  console. Calculated perimeter for radius from  console is 75.39822368615503
+2017-02-19 16:15:10 [main] INFO  Runner -  area and perimeter for circle radius from console are printed in console
+2017-02-19 16:15:10 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 16:43:36 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectReader is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectFile is created
+2017-02-19 16:43:36 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 16:43:36 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 16:43:40 [main] INFO  Runner -  read circle radius from console. Entered radius is 12.0
+2017-02-19 16:43:40 [main] INFO  Runner -  calculate circle area for radius from  console . Calculated area for radius from  console is 452.3893421169302
+2017-02-19 16:43:40 [main] INFO  Runner -  calculate circle perimeter for radius from  console. Calculated perimeter for radius from  console is 75.39822368615503
+2017-02-19 16:43:40 [main] INFO  Runner -  area and perimeter for circle radius from console are printed in console
+2017-02-19 16:43:40 [main] INFO  Runner -  user is asked about file name 
+2017-02-19 16:43:44 [main] INFO  Runner -  read file name from console. Entered file name is file1
+2017-02-19 16:43:44 [main] INFO  Runner - Create file file1
+2017-02-19 16:43:44 [main] INFO  Runner - file1is filled out with test data
+2017-02-19 16:43:44 [main] INFO  Runner - Result_file1is filled out with result data
+2017-02-19 16:59:06 [main] INFO  Runner -  objectPrinter is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectReader is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectCircle is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectCirclePerimeter is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectFile is created
+2017-02-19 16:59:06 [main] INFO  Runner -  objectFileUtil is created
+2017-02-19 16:59:06 [main] INFO  Runner -  user is asked about circle radius 
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  entered radius(2.0)is positive
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  setCircleRadius sets circleRadius to 2.0
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->2.0
+2017-02-19 16:59:09 [main] INFO  Runner -  read circle radius from console. Entered radius is 2.0
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->2.0
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  setCircleArea sets circleArea ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  Runner -  calculate circle area for radius from  console . Calculated area for radius from  console is 12.566370614359172
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->2.0
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  setCirclePerimeter sets circlePerimeter ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  Runner -  calculate circle perimeter for radius from  console. Calculated perimeter for radius from  console is 12.566370614359172
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->2.0
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->12.566370614359172
+2017-02-19 16:59:09 [main] INFO  Runner -  area and perimeter for circle radius from console are printed in console
+2017-02-19 16:59:09 [main] INFO  Runner -  user is asked about file name 
+2017-02-19 16:59:15 [main] INFO  Runner -  read file name from console. Entered file name is erer
+2017-02-19 16:59:15 [main] INFO  Runner - Create file erer
+2017-02-19 16:59:15 [main] INFO  Runner - erer is filled out with test data
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  entered radius(10.0)is positive
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleRadius sets circleRadius to 10.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->10.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->10.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCirclePerimeter sets circlePerimeter ->62.83185307179586
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->10.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleArea sets circleArea ->314.1592653589793
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->10.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->62.83185307179586
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->314.1592653589793
+2017-02-19 16:59:15 [main] WARN  CircleParameter -  entered radius ->0.0 is negative or equals to 0
+2017-02-19 16:59:15 [main] WARN  CircleParameter -  setCircleRadius sets circleRadius to 0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  entered radius(0.040757716)is positive
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleRadius sets circleRadius to 0.040757716
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.040757716
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.040757716
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCirclePerimeter sets circlePerimeter ->0.2560882823253983
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.040757716
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleArea sets circleArea ->0.0052187867409732025
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.040757716
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->0.2560882823253983
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->0.0052187867409732025
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  entered radius(17.0)is positive
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleRadius sets circleRadius to 17.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->17.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->17.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCirclePerimeter sets circlePerimeter ->106.81415022205297
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->17.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleArea sets circleArea ->907.9202768874502
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->17.0
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->106.81415022205297
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->907.9202768874502
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  entered radius(0.6397624)is positive
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleRadius sets circleRadius to 0.6397624
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.6397624
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.6397624
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCirclePerimeter sets circlePerimeter ->4.019745711765949
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.6397624
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  setCircleArea sets circleArea ->1.2858410819745458
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleRadius returns circleRadius ->0.6397624
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCirclePerimeter returns circlePerimeter ->4.019745711765949
+2017-02-19 16:59:15 [main] INFO  CircleParameter -  getCircleArea returns circleArea ->1.2858410819745458
+2017-02-19 16:59:15 [main] INFO  Runner - Result_erer is filled out with result data
